@@ -152,7 +152,7 @@ $wordphp = $fichier[$i];
         <br>
         <br>
 
-        <center><a href="https://www.reddit.com/user/MyWare"><img src="reddit-logo-16.png" style="width:3%;"></a></center>
+        <center><a href="https://www.reddit.com/user/MyWare" target="_blank"><i class='fab fa-reddit' style='font-size:48px'></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/MyWare386" target="_blank"><i class='fab fa-github' style='font-size:48px'></i></a></center>
 
         <br>
         <br>
