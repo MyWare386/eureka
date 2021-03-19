@@ -7,4 +7,6 @@
   - https://ineedanidea-eureka.000webhostapp.com/index%20(english).php _(english)_
 
 
+Credits
+
 A website created to find ideas. Made with PHP, CSS and Javascript by **MyWare** (https://github.com/MyWare386).
