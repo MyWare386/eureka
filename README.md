@@ -1,6 +1,6 @@
 # Eureka
 
-"If you need to find an idea"
+"If you need to find an idea" A website created to find ideas.
 
 **URL :** 
   - https://ineedanidea-eureka.000webhostapp.com/index.php _(french)_ 
@@ -11,4 +11,4 @@
 Credits
 -----------------
 
-A website created to find ideas. Made with PHP, CSS and Javascript by **MyWare** (https://github.com/MyWare386).
+Made with PHP, CSS and Javascript by **MyWare** (https://github.com/MyWare386).
