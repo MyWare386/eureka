@@ -1,6 +1,6 @@
 # Eureka
 
-"If you need to find an idea" 
+"If you need to find an idea"
 A website created to find ideas.
 
 **URL :** 
