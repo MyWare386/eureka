@@ -12,6 +12,11 @@ A website created to find ideas.
 
 <br>
 
+News
+--------------------
+
+<br>
+
 Credits
 -----------------
 
