@@ -14,6 +14,7 @@ A website created to find ideas.
 
 News
 --------------------
+_"Something's wrong, I can feel it"_
 
 <br>
 
