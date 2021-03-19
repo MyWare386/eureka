@@ -1,6 +1,7 @@
 # Eureka
 
-"If you need to find an idea" A website created to find ideas.
+"If you need to find an idea" 
+A website created to find ideas.
 
 **URL :** 
   - https://ineedanidea-eureka.000webhostapp.com/index.php _(french)_ 
