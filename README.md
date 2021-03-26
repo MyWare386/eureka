@@ -21,4 +21,4 @@ _"Something's wrong, I can feel it"_
 Credits
 -----------------
 
-Made with HTML, PHP, CSS and Javascript by **MyWare** (https://github.com/MyWare386).
+Made with HTML, PHP, CSS and Javascript by **MyWare**.
