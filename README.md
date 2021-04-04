@@ -25,7 +25,7 @@ URL
 ---------------------------
 
   - ↗️ https://ineedanidea-eureka.000webhostapp.com/index.php _(french 🇫🇷)_ 
-  - ↗️ https://ineedanidea-eureka.000webhostapp.com/index%20(english).php _(english 🇬🇧)_
+  - ↗️ https://ineedanidea-eureka.000webhostapp.com/index%20(english).php _(english 🇬🇧 🇺🇸)_
 
 <br>
 
@@ -38,7 +38,7 @@ _"Something's wrong, I can feel it"_
 Notes
 ---------------------
 
-- You can choose between two languages : french or english
+- You can choose between two languages : french 🇫🇷 or english 🇬🇧 🇺🇸
 - There is a problem with the icons, they don't appear
 
 <br>
