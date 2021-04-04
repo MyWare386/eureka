@@ -9,7 +9,9 @@ A website created to find ideas.
 Contents
 ---------------------------
 
-**URL :**
+<br>
+
+URL
 ---------------------------
 
   - https://ineedanidea-eureka.000webhostapp.com/index.php _(french)_ 
