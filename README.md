@@ -39,6 +39,7 @@ Notes
 ---------------------
 
 - You can choose between two languages : french or english
+- There is a problem with the icons, they don't appear
 
 <br>
 
