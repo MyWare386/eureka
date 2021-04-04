@@ -2,7 +2,7 @@
 
 "If you need to find an idea"
 
-| https://ineedanidea-eureka.000webhostapp.com/index%20(english).php
+| ↗️ https://ineedanidea-eureka.000webhostapp.com/index%20(english).php
 |-----------
 
 A website created to find ideas.
