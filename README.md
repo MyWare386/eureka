@@ -17,6 +17,7 @@ Contents
 - <a href="https://github.com/MyWare386/eureka#url">URL</a>
 - <a href="https://github.com/MyWare386/eureka#news">News</a>
 - <a href="https://github.com/MyWare386/eureka#notes">Notes</a>
+- <a href="https://github.com/MyWare386/eureka#credits">Credits</a>
 
 <br>
 
