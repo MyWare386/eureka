@@ -35,6 +35,11 @@ _"Something's wrong, I can feel it"_
 
 <br>
 
+Notes
+---------------------
+
+<br>
+
 Credits
 -----------------
 
