@@ -38,6 +38,8 @@ _"Something's wrong, I can feel it"_
 Notes
 ---------------------
 
+- You can choose between two languages : french or english
+
 <br>
 
 Credits
