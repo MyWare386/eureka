@@ -12,6 +12,8 @@ A website created to find ideas.
 Contents
 ---------------------------
 
+- <a href="https://github.com/MyWare386/eureka#eureka">Home</a>
+
 <br>
 
 URL
